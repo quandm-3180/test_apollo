@@ -1,8 +1,8 @@
 <template>
-    <h1>Hello</h1>
+    <h1>Hello123</h1>
 </template>
 
 <script setup lang="ts">
-console.log(123);
+console.log(12345);
 
 </script>
