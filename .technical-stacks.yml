@@ -11,6 +11,7 @@ techstack:
     - laravel:9.52.15
     - php:8.0.2
     - quan12
+    - quan12345
   database:
     - postgresql
     - linode
