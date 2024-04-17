@@ -8,7 +8,7 @@ config:
       - md
 techstack:
   application:
-    - laravel:9.52.15
+    - laravel123123:9.52.15
     - php:8.0.2
     - quan12
     - quan12345
