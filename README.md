@@ -1,10 +1,10 @@
 # Project Name
-Apollo
+Apollo123
 ## Description
 
 This is a sample project that demonstratefdsfs the usage of Apollo.
 
-## Installationfds
+## Installatio
 
 1. Clone the repository.fds
 2. Install the dependencies by running `npm install`.
