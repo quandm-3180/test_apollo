@@ -12,6 +12,7 @@ techstack:
     - php:8.0.2
     - quan12
     - quan12345
+    - sass
   database:
     - postgresql
     - linode
