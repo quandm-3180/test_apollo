@@ -9,11 +9,12 @@ config:
 techstack:
   application:
     - laravel123123:9.52.15
-    - github action
+    - github action222
     - php:8.0.2
     - quan12
     - quan12345
     - sass
+    - test123123
   database:
     - postgresql
     - linode
