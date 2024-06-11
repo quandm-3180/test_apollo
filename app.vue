@@ -3,6 +3,6 @@
 </template>
 
 <script setup lang="ts">
-console.log(123);
+console.log(1234);
 
 </script>
